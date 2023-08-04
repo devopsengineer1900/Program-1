@@ -1,0 +1,8 @@
+print("welcome to devops")
+print("Please Enter your name")
+a=str(input())
+print("Welcome", a)
+print("Please enter your age")
+b=str(input())
+print("age is not matter", b)
+print("keep study")
